@@ -38,3 +38,5 @@ Truncation: Episode length is greater than 500.
 
 ### Criteria
 An average reward **larger than 195** is considered to be good.
+
+Head over to my [jupyter notebook](cartpole_reinforcement_learning.ipynb) to check out the Reinforcement Learning agent I trained!
